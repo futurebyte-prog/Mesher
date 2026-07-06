@@ -1,14 +1,9 @@
 # 🌐 Mesher
 
-<div align="center"><img src="assets/logo.png" alt="Mesher Logo" width="180"/>Private. Peer-to-Peer. Serverless.
+<div align="center">
+Private. Peer-to-Peer. Serverless.
 
-A decentralized communication platform built on WebRTC, giving users direct, encrypted communication without relying on centralized messaging servers.
-
-"Status" (https://img.shields.io/badge/status-planning-blue?style=for-the-badge)
-"License" (https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-"Open Source" (https://img.shields.io/badge/Open%20Source-Yes-orange?style=for-the-badge)
-"FutureByte" (https://img.shields.io/badge/Built%20by-FutureByte-red?style=for-the-badge)
-
+A decentralized communication platform built on WebRTC, giving users direct, encrypted communication without relying on centralized messaging.
 </div>---
 
 # 📖 Overview
