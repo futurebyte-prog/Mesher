@@ -1,5 +1,5 @@
 <div align="center">
-# 🌐 Mesher
+#  🌐 Mesher
 
 
 Private. Peer-to-Peer. Serverless.
