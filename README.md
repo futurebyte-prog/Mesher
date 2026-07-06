@@ -1,10 +1,13 @@
+<div align="center">
 # 🌐 Mesher
 
-<div align="center">
+
 Private. Peer-to-Peer. Serverless.
 
 A decentralized communication platform built on WebRTC, giving users direct, encrypted communication without relying on centralized messaging.
-</div>---
+</div>
+
+---
 
 # 📖 Overview
 
