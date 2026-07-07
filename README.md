@@ -115,7 +115,7 @@ Mesher will rely on well-established cryptographic libraries rather than custom 
 
 - [X] Project Architecture
 - [ ] WebRTC Research
-- [ ] UI Design
+- [X] UI Design
 - [ ] Documentation
 
 ---
