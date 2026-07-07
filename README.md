@@ -113,7 +113,7 @@ Mesher will rely on well-established cryptographic libraries rather than custom 
 
 ## Phase 1
 
-- [ ] Project Architecture
+- [ X ] Project Architecture
 - [ ] WebRTC Research
 - [ ] UI Design
 - [ ] Documentation
